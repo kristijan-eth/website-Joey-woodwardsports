@@ -1,0 +1,1068 @@
+{
+ "site": {
+  "url": "https://kristijan-eth.github.io/website-Joey-woodwardsports/",
+  "home": "https://woodwardsports.com/",
+  "news": "https://woodwardsports.com/news/",
+  "live_url": "https://www.youtube.com/@WoodwardSports/live",
+  "youtube": "https://www.youtube.com/@WoodwardSports",
+  "instagram": "https://www.instagram.com/woodwardsports/",
+  "x": "https://x.com/woodwardsports",
+  "facebook": "https://www.facebook.com/WoodwardSports/",
+  "shop": "https://shop.woodwardsports.com/",
+  "app": "https://apps.apple.com/us/app/wsn-live/id1553068845",
+  "ig_dm": "https://ig.me/m/woodwardsports",
+  "fb_dm": "https://m.me/WoodwardSports",
+  "yt_subs": "111K",
+  "yt_videos": "22K",
+  "app_rating": "4.6",
+  "app_ratings": "48"
+ },
+ "teams": [
+  {
+   "key": "lions",
+   "city": "Detroit",
+   "name": "Lions",
+   "league": "NFL",
+   "c1": "#0076B6",
+   "c2": "#B0B7BC",
+   "cats": [
+    "Detroit Lions"
+   ]
+  },
+  {
+   "key": "pistons",
+   "city": "Detroit",
+   "name": "Pistons",
+   "league": "NBA",
+   "c1": "#C8102E",
+   "c2": "#1D42BA",
+   "cats": [
+    "Detroit Pistons"
+   ]
+  },
+  {
+   "key": "tigers",
+   "city": "Detroit",
+   "name": "Tigers",
+   "league": "MLB",
+   "c1": "#0C2340",
+   "c2": "#FA4616",
+   "cats": [
+    "Detroit Tigers"
+   ]
+  },
+  {
+   "key": "redwings",
+   "city": "Detroit",
+   "name": "Red Wings",
+   "league": "NHL",
+   "c1": "#CE1126",
+   "c2": "#FFFFFF",
+   "cats": [
+    "Detroit Red Wings"
+   ]
+  },
+  {
+   "key": "michigan",
+   "city": "Michigan",
+   "name": "Wolverines",
+   "league": "NCAA · Big Ten",
+   "c1": "#00274C",
+   "c2": "#FFCB05",
+   "cats": [
+    "Michigan",
+    "U of M"
+   ],
+   "title_hint": [
+    "Michigan Football"
+   ]
+  },
+  {
+   "key": "msu",
+   "city": "Michigan State",
+   "name": "Spartans",
+   "league": "NCAA · Big Ten",
+   "c1": "#18453B",
+   "c2": "#FFFFFF",
+   "cats": [
+    "Michigan State",
+    "MSU"
+   ],
+   "title_hint": [
+    "Michigan State"
+   ]
+  }
+ ],
+ "shows": [
+  {
+   "slug": "big-d-energy",
+   "name": "Big D Energy",
+   "short": "Big D Energy",
+   "time": "8–10 AM",
+   "start": 8,
+   "end": 10,
+   "hosts": "Neal Ruhl & Sean Baligian",
+   "desc": "Veteran broadcaster Neal Ruhl and radio legend Sean Baligian kick off the day with bold takes, deep analysis and pure sports adrenaline.",
+   "apple": "https://podcasts.apple.com/us/podcast/big-d-energy-show/id1543767466",
+   "spotify": "https://open.spotify.com/show/1ooE31QAHvIwc64HTNiZUW"
+  },
+  {
+   "slug": "crunch-time",
+   "name": "Crunch Time",
+   "short": "Crunch Time",
+   "time": "11 AM–1 PM",
+   "start": 11,
+   "end": 13,
+   "hosts": "Jeff Iafrate & Booner",
+   "desc": "Jeff Iafrate and Booner bring unfiltered truth, heavy Detroit sports analysis and zero apologies.",
+   "apple": "https://podcasts.apple.com/us/podcast/crunch-time-sports/id6786401792",
+   "spotify": null
+  },
+  {
+   "slug": "braylon-edwards",
+   "name": "The Braylon Edwards Show",
+   "short": "Braylon Edwards",
+   "time": "2–4 PM",
+   "start": 14,
+   "end": 16,
+   "hosts": "Braylon Edwards & Anson Wells",
+   "desc": "Former NFL All-Pro wide receiver Braylon Edwards and Anson Wells. Heavy Lions analysis, raw takes and high-energy debate.",
+   "apple": "https://podcasts.apple.com/us/podcast/braylon-edwards-show/id1556523200",
+   "spotify": "https://open.spotify.com/show/401D41eV73vaOidqcHDF3o"
+  },
+  {
+   "slug": "heavyweights",
+   "name": "Woodward Heavyweights",
+   "short": "Heavyweights",
+   "time": "5–7 PM",
+   "start": 17,
+   "end": 19,
+   "hosts": "Spencer Raxter & Eazy",
+   "desc": "The biggest show out of the Woodward studios. Hilariously epic takes, heavy Detroit sports analysis and loud pop-culture debates for the drive home.",
+   "apple": "https://podcasts.apple.com/us/podcast/woodward-heavyweights/id1610793862",
+   "spotify": "https://open.spotify.com/show/77jFfffoqcg3Fh1MWeCdb7"
+  }
+ ],
+ "podcasts": [
+  {
+   "id": 1543767466,
+   "name": "Big D Energy Show",
+   "episodes": 1000,
+   "apple": "https://podcasts.apple.com/us/podcast/big-d-energy-show/id1543767466",
+   "rss": "https://www.spreaker.com/show/4703848/episodes/feed",
+   "spotify": "https://open.spotify.com/show/1ooE31QAHvIwc64HTNiZUW"
+  },
+  {
+   "id": 1556523200,
+   "name": "Braylon Edwards Show",
+   "episodes": 1000,
+   "apple": "https://podcasts.apple.com/us/podcast/braylon-edwards-show/id1556523200",
+   "rss": "https://www.spreaker.com/show/4811839/episodes/feed",
+   "spotify": "https://open.spotify.com/show/401D41eV73vaOidqcHDF3o"
+  },
+  {
+   "id": 1610793862,
+   "name": "Woodward Heavyweights",
+   "episodes": 717,
+   "apple": "https://podcasts.apple.com/us/podcast/woodward-heavyweights/id1610793862",
+   "rss": "https://www.spreaker.com/show/5367285/episodes/feed",
+   "spotify": "https://open.spotify.com/show/77jFfffoqcg3Fh1MWeCdb7"
+  },
+  {
+   "id": 6786401792,
+   "name": "Crunch Time Sports",
+   "episodes": 90,
+   "apple": "https://podcasts.apple.com/us/podcast/crunch-time-sports/id6786401792",
+   "rss": "https://www.spreaker.com/show/7042776/episodes/feed",
+   "spotify": null
+  },
+  {
+   "id": 1662995059,
+   "name": "Woodward Pistons",
+   "episodes": 58,
+   "apple": "https://podcasts.apple.com/us/podcast/woodward-pistons/id1662995059",
+   "rss": "https://www.spreaker.com/show/5546494/episodes/feed",
+   "spotify": null
+  },
+  {
+   "id": 6797913401,
+   "name": "Water Your Garden",
+   "episodes": 26,
+   "apple": "https://podcasts.apple.com/us/podcast/water-your-garden/id6797913401",
+   "rss": "https://www.spreaker.com/show/7177927/episodes/feed",
+   "spotify": null
+  }
+ ],
+ "watch_party": {
+  "venues": [
+   {
+    "name": "HopCat",
+    "role": "Watch Party + Postgame Show",
+    "role_key": "win"
+   },
+   {
+    "name": "Bar Louie",
+    "role": "Live Pregame Show",
+    "role_key": "second"
+   },
+   {
+    "name": "Rock & Brews",
+    "role": "Street-team coverage",
+    "role_key": "st"
+   },
+   {
+    "name": "O'Tooles",
+    "role": "Street-team coverage",
+    "role_key": "st"
+   },
+   {
+    "name": "Fifth Avenue",
+    "role": "Street-team coverage",
+    "role_key": "st"
+   },
+   {
+    "name": "Blind Owl",
+    "role": "Street-team coverage",
+    "role_key": "st"
+   }
+  ]
+ },
+ "long_videos": [
+  "BtnDefhcbOQ",
+  "znBHJ4ieyzg",
+  "WzYvMH3wSH0",
+  "8VO1arwMX4w",
+  "bJGK6iqYREM",
+  "0TUOW20D9oo",
+  "hW68ZwaHSIQ",
+  "yD7ewkVkiFQ"
+ ],
+ "shorts": [
+  "Rxa4rnR1kKk",
+  "MaJPqc3pLRw",
+  "TGf7FaNJNAE",
+  "ATj4x_BwiqM",
+  "kbLwZs72tgs",
+  "tcWmKewD7LQ",
+  "uNr7esnbF4E"
+ ],
+ "story_skip": [
+  21256
+ ],
+ "shop_pick": [
+  {
+   "handle": "woodward_lions_logo-1",
+   "name": "Woodward Lions Hoodie",
+   "price": "54.99"
+  },
+  {
+   "handle": "woodwardpistonslightningdesign-2",
+   "name": "Woodward Pistons Lightning Sweatshirt",
+   "price": "35.00"
+  },
+  {
+   "handle": "woodwardtigerstextshirtdesign2-2",
+   "name": "Woodward Tigers Crewneck",
+   "price": "25.00"
+  },
+  {
+   "handle": "wsn_optionalfront-3",
+   "name": "WSN Graphic Sweatshirt",
+   "price": "30.00"
+  },
+  {
+   "handle": "cade-crusader-ringer-tee",
+   "name": "The Cade Crusader Tee",
+   "price": "22.99"
+  },
+  {
+   "handle": "woodward_lions_logo-2",
+   "name": "Woodward Lions Tie-Dye Tee",
+   "price": "29.99"
+  },
+  {
+   "handle": "grit-lions-o-3",
+   "name": "Not America's Team, Detroit's Team",
+   "price": "29.99"
+  },
+  {
+   "handle": "darren-mccarty",
+   "name": "Darren McCarty Turtle Boxing Club",
+   "price": "29.99"
+  },
+  {
+   "handle": "retrowsn_design-4",
+   "name": "Retro WSN Crewneck",
+   "price": "25.00"
+  },
+  {
+   "handle": "detroit-draft-record",
+   "name": "Detroit Draft Record",
+   "price": "39.99"
+  }
+ ],
+ "posts": [
+  {
+   "id": 21295,
+   "date": "2026-10-06T02:55:54",
+   "link": "https://woodwardsports.com/3-areas-of-concern-and-comfort-for-the-2026-27-detroit-pistons/",
+   "slug": "3-areas-of-concern-and-comfort-for-the-2026-27-detroit-pistons",
+   "title": "3 Areas of Concern and Comfort for the 2026-27 Detroit Pistons",
+   "excerpt": "DETROIT, MI – The Detroit Pistons tipped off pre-season versus the Phoenix Suns with an exciting 109-107 win. Rookie Ebuka Okorie, who made his first shot attempt for three, sunk the game winning layup with a few seconds left. He also successfully defended the Suns last attempt to tie or even win the game. But…",
+   "author": "Brandon Dent",
+   "cats": [
+    "Detroit Pistons",
+    "Detroit Sports",
+    "Featured News",
+    "NBA",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/10/fd4ec7aafc9147328b6d089434cd2a2f_exif_1791254696803-scaled.jpg",
+   "words": 976
+  },
+  {
+   "id": 21291,
+   "date": "2026-10-05T14:55:05",
+   "link": "https://woodwardsports.com/the-detroit-red-wings-are-a-hot-mess/",
+   "slug": "the-detroit-red-wings-are-a-hot-mess",
+   "title": "The Detroit Red Wings Are A Hot MEss!",
+   "excerpt": "People often ask me who I think will be the next Detroit professional team to win a championship. Without thinking, I always said the Detroit Red Wings. No more. The Red Wings are a mess and could only win a title if they were demoted to the Ontario Hockey League. Maybe. Their captain wants out….",
+   "author": "Terry Foster",
+   "cats": [
+    "Detroit Red Wings",
+    "Detroit Sports",
+    "Featured News",
+    "NHL",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/10/IMG_6306.JPG",
+   "words": 414
+  },
+  {
+   "id": 21284,
+   "date": "2026-09-29T02:05:57",
+   "link": "https://woodwardsports.com/how-justin-verlander-was-must-see-tv-in-detroit-one-last-time/",
+   "slug": "how-justin-verlander-was-must-see-tv-in-detroit-one-last-time",
+   "title": "Justin Verlander Was Must See TV in Detroit One Last TIme",
+   "excerpt": "Justin Verlander wasn’t the only person to get choked up after he pitched the final ball of his career. I did too. The dad came out in me when his seven-year-old daughter Genevieve came bouncing out to the mound to celebrate his final moment as a Tiger. This was the moment that really got to…",
+   "author": "Terry Foster",
+   "cats": [
+    "Detroit Sports",
+    "Detroit Tigers",
+    "Featured News",
+    "MLB",
+    "Pop Culture",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/09/IMG_6134.JPG",
+   "words": 194
+  },
+  {
+   "id": 21281,
+   "date": "2026-09-25T16:47:25",
+   "link": "https://woodwardsports.com/a-new-river-found-in-detroit/",
+   "slug": "a-new-river-found-in-detroit",
+   "title": "A New River Found in Detroit",
+   "excerpt": "By Nicholas Kohloff Detroit Tigers Beat Reporter Woodward Sports When the Detroit Tigers decided to trade back-to-back Cy Young winner Tarik Skubal, the question was simple: What would they get in return? The answer was a package headlined by a top-30 prospect in OF Zyhir Hope, a top-75 prospect in RHP River Ryan, along with…",
+   "author": "Woodward Sports",
+   "cats": [
+    "Detroit Tigers",
+    "Featured News",
+    "MLB",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/09/IMG_2448-scaled.jpg",
+   "words": 497
+  },
+  {
+   "id": 21278,
+   "date": "2026-09-21T11:37:43",
+   "link": "https://woodwardsports.com/five-favorite-wsn-college-football-teams/",
+   "slug": "five-favorite-wsn-college-football-teams",
+   "title": "Five favorite WSN college football teams",
+   "excerpt": "Our heroes at Woodward Sports said “Go Blue” when asked to name their five favorite college football teams. Michigan State (Go green. Go white) finished a close second in our poll. This should come as no surprise. What was surprising was the fourth-place school (South Carolia) which finished behind third place Miami of Florida. There…",
+   "author": "Terry Foster",
+   "cats": [
+    "Big Ten",
+    "Featured News",
+    "Michigan",
+    "Michigan State",
+    "NCAA",
+    "Pop Culture",
+    "Trending News",
+    "U of M"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/09/photo-output-40-scaled.png",
+   "words": 292
+  },
+  {
+   "id": 21256,
+   "date": "2026-09-15T16:19:09",
+   "link": "https://woodwardsports.com/vote-woodward-sports-detroit-vs-buffalo-watch-party/",
+   "slug": "vote-woodward-sports-detroit-vs-buffalo-watch-party",
+   "title": "VOTE: Woodward sports Detroit vs Buffalo Watch Party",
+   "excerpt": "Detroit vs. Buffalo Showdown Vote for the Ultimate…",
+   "author": "Woodward Sports",
+   "cats": [
+    "Detroit Lions",
+    "Featured News",
+    "NFL",
+    "Pop Culture",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/09/IMG_5829.JPG",
+   "words": 2035
+  },
+  {
+   "id": 21251,
+   "date": "2026-09-14T13:47:47",
+   "link": "https://woodwardsports.com/reasons-to-worry-after-detroit-lions-slim-victory-over-the-saints/",
+   "slug": "reasons-to-worry-after-detroit-lions-slim-victory-over-the-saints",
+   "title": "Reasons to Worry After Detroit Lions SLIM Victory Over The Saints?!",
+   "excerpt": "I saw a young man proudly wearing a Jahmyr Gibbs jersey during the Detroit Lions season-opening game. He wore that jersey with pride. He popped the collar and smiled. At the time the Lions were killing the New Orleans Saints. Later, I ran into another young man who appropriately wore a shirt that said “Fuckin…",
+   "author": "Terry Foster",
+   "cats": [
+    "Detroit Lions",
+    "Featured News",
+    "NFL",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/09/IMG_5817-2.JPG",
+   "words": 387
+  },
+  {
+   "id": 21248,
+   "date": "2026-09-14T13:38:28",
+   "link": "https://woodwardsports.com/terry-foster-the-9-11-experience-that-happened-before-9-11/",
+   "slug": "terry-foster-the-9-11-experience-that-happened-before-9-11",
+   "title": "Terry Foster: ‘The 9-11 Experience, That Happened Before 9-11!’",
+   "excerpt": "My 9-11 experience began exactly three months before the towers fell in New York City. I roamed a darken patch of open fields in Oklahoma City outside a Federal prison talking about the terrorist attack on the United States. It was the morning that master mind Timothy McVeigh was executed in a Federal prison in…",
+   "author": "Terry Foster",
+   "cats": [
+    "Pop Culture",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/09/IMG_5816.JPG",
+   "words": 692
+  },
+  {
+   "id": 21245,
+   "date": "2026-09-14T13:16:37",
+   "link": "https://woodwardsports.com/michigan-state-football-pat-fitzgerald-ready-for-redemption/",
+   "slug": "michigan-state-football-pat-fitzgerald-ready-for-redemption",
+   "title": "Michigan State Football: Pat Fitzgerald Ready For Redemption",
+   "excerpt": "By Ryan O’Bleness Woodward Sports Michigan State got off to a rocky start under the Pat Fitzgerald era, but we discovered a lot about him during the Spartans 30-20 come from behind victory over Toledo at Spartan Stadium. The new version of Fitzgerald has a little Dan Campbell in him. He is aggressive on fourth…",
+   "author": "Woodward Sports",
+   "cats": [
+    "Big Ten",
+    "Featured News",
+    "Michigan State",
+    "MSU",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/09/IMG_5814.WEBP",
+   "words": 691
+  },
+  {
+   "id": 21119,
+   "date": "2026-09-08T14:51:55",
+   "link": "https://woodwardsports.com/michigan-footballs-answered-prayer-dooms-westerns-upset-bid/",
+   "slug": "michigan-footballs-answered-prayer-dooms-westerns-upset-bid",
+   "title": "Michigan Football’s Answered Prayer Dooms Western’s Upset Bid",
+   "excerpt": "You saw it. I saw it. We all saw it. Western Michigan got jobbed by officials during the final seconds of its 13-12 loss to Michigan. The final play of the game should never have been played. Michigan had it’s one shot at a Hail Mary with 0:09 remaining in the game, trailing 12-7. The…",
+   "author": "Terry Foster",
+   "cats": [
+    "Uncategorized"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/09/IMG_5622.JPG",
+   "words": 214
+  },
+  {
+   "id": 21114,
+   "date": "2026-09-03T20:29:22",
+   "link": "https://woodwardsports.com/ranking-detroits-top-college-and-pro-teams-of-2026/",
+   "slug": "ranking-detroits-top-college-and-pro-teams-of-2026",
+   "title": "Ranking Detroit’s Top College and Pro Teams of 2026",
+   "excerpt": "Before every fall Monday show when I worked at the flagship, we’d get a flood of calls begging us not to talk Detroit Lions football. When our show began, we were flooded with calls about Detroit Lions football. That is how I knew Lions football was king in Detroit. That played out in our latest…",
+   "author": "Terry Foster",
+   "cats": [
+    "Detroit Lions",
+    "Detroit Pistons",
+    "Detroit Red Wings",
+    "Detroit Sports",
+    "Detroit Tigers"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/09/photo-output-28.PNG",
+   "words": 343
+  },
+  {
+   "id": 21106,
+   "date": "2026-08-26T20:03:47",
+   "link": "https://woodwardsports.com/report-detroit-pistons-jalen-duren-nearing-deal-ausar-thompson-next/",
+   "slug": "report-detroit-pistons-jalen-duren-nearing-deal-ausar-thompson-next",
+   "title": "REPORT: Detroit Pistons, Jalen Duren Nearing Deal. Ausar Thompson Next?",
+   "excerpt": "DETROIT, MI – The Detroit Pistons took center stage in the NBA after reports of an impending deal with All-NBA big man Jalen Duren. Jake Fischer broke the news Tuesday, via Bleacher Report on August 25, 2026. The Pistons and Duren are nearing a 4 year-$160M+ contract. According to sources close to the situation, Duren…",
+   "author": "Brandon Dent",
+   "cats": [
+    "Detroit Pistons",
+    "Featured News",
+    "NBA",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/08/photo-output-1-scaled.png",
+   "words": 761
+  },
+  {
+   "id": 21103,
+   "date": "2026-08-26T18:25:52",
+   "link": "https://woodwardsports.com/top-5-drunk-eats/",
+   "slug": "top-5-drunk-eats",
+   "title": "TOP 5 DRUNK EATS",
+   "excerpt": "You have left the bar at 2 a.m. on a weekend night. You are drunk and hungry. What is your next stop? I asked our group of sports enthusiasts at the Woodward Sports Network to list their top five stops. Let me make a confession. I changed the entire landscape with the voting because I…",
+   "author": "Terry Foster",
+   "cats": [
+    "Featured News",
+    "Pop Culture",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/08/photo-output.png",
+   "words": 514
+  },
+  {
+   "id": 21091,
+   "date": "2026-08-25T15:43:26",
+   "link": "https://woodwardsports.com/detroit-tigers-mo-money-more-problems/",
+   "slug": "detroit-tigers-mo-money-more-problems",
+   "title": "DETROIT TIGERS: MO MONEY, MO PROBLEMS",
+   "excerpt": "The Detroit Tigers dropped a BAG in the offseason, leading to sky-high expectations in 2026 that ultimately were never met. I thought this team could win the American League, hands up. Little did I know it would be one of the most disappointing seasons of my lifetime… CUT THE CHECK Detroit Tigers spent this offseason….",
+   "author": "Woodward Sports",
+   "cats": [
+    "Detroit Tigers",
+    "Featured News",
+    "MLB",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/08/download.jpeg",
+   "words": 587
+  },
+  {
+   "id": 21087,
+   "date": "2026-08-14T14:13:41",
+   "link": "https://woodwardsports.com/these-are-the-top-five-cities-in-michigan/",
+   "slug": "these-are-the-top-five-cities-in-michigan",
+   "title": "These are the TOP 5 CITIES in MICHIGAN!!!",
+   "excerpt": "Detroit is king. And it’s not even close. I asked our staff at Woodward Sports what their five favorite Michigan cities were and Detroit with its ballparks, watering holes and restaurants won in a landslide over second place Grand Rapids with its minor league ballparks, microbrews and open spaces. Detroit is about to get even…",
+   "author": "Terry Foster",
+   "cats": [
+    "Featured News",
+    "Pop Culture",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/08/IMG_5287.jpg",
+   "words": 595
+  },
+  {
+   "id": 21079,
+   "date": "2026-08-03T11:10:29",
+   "link": "https://woodwardsports.com/breaking-down-blockbuster-tarik-skubal-trade-to-la-dodgers-detroit-tigers-return/",
+   "slug": "breaking-down-blockbuster-tarik-skubal-trade-to-la-dodgers-detroit-tigers-return",
+   "title": "Breaking Down BLOCKBUSTER Tarik Skubal Trade to LA DODGERS, Detroit Tigers’ Return",
+   "excerpt": "Nicholas Kohloff | Detroit Tigers Beat Reporter | Woodward Sports Blockbuster Trade! A blockbuster goes down in MLB as the back-to-back Cy Young Award winner Tarik Skubal gets traded to the Los Angeles Dodgers for OF Zhir Hope, RHP River Ryan, and RHP Brady Smith. I heard they were interested in trying to trade for Victor…",
+   "author": "Woodward Sports",
+   "cats": [
+    "Detroit Sports",
+    "Detroit Tigers",
+    "Featured News",
+    "MLB",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/08/IMG_1572.JPG",
+   "words": 831
+  },
+  {
+   "id": 21075,
+   "date": "2026-08-02T21:10:25",
+   "link": "https://woodwardsports.com/breaking-news-detroit-tigers-trade-2-time-cy-young-winning-ace-tarik-skubal/",
+   "slug": "breaking-news-detroit-tigers-trade-2-time-cy-young-winning-ace-tarik-skubal",
+   "title": "BREAKING NEWS: Detroit Tigers Trade 2-Time Cy Young Winning ACE Tarik Skubal",
+   "excerpt": "UPDATE AUGUST 2, 2026: TARIK SKUBAL TRADED! The Detroit Tigers traded back to back AL Cy Young winner Tarik Skubal to the Los Angeles Dodgers. Detroit lands Top 100 prospects Zyhir Hope and River Ryan, along with RHP Brady Smith. This changes the future of the Tigers franchise. Published Thursday, July 30, 2026: The word…",
+   "author": "Terry Foster",
+   "cats": [
+    "Detroit Tigers",
+    "Featured News",
+    "MLB",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/08/photo-output-27.PNG",
+   "words": 595
+  },
+  {
+   "id": 21072,
+   "date": "2026-08-02T20:57:43",
+   "link": "https://woodwardsports.com/top-5-detroit-athletes-all-time/",
+   "slug": "top-5-detroit-athletes-all-time",
+   "title": "Top 5 Detroit AThletes ALL-Time!",
+   "excerpt": "Gordie Howe did not make the list. Neither did Al Kaline, Steve Yzerman or Joe Louis. There is a reason they were omitted from a poll of Woodward Sports Network personalities and nitwits to name the all-time best athletes in Detroit history. Many voters only selected athletes they saw perform live. So that meant many…",
+   "author": "Terry Foster",
+   "cats": [
+    "Detroit Lions",
+    "Detroit Pistons",
+    "Detroit Red Wings",
+    "Detroit Sports",
+    "Detroit Tigers",
+    "Featured News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/08/IMG_5100-2.JPG",
+   "words": 663
+  },
+  {
+   "id": 21068,
+   "date": "2026-07-23T19:14:07",
+   "link": "https://woodwardsports.com/detroit-tigers-draft-rhp-cameron-flukey-22nd-in-2026-mlb-draft/",
+   "slug": "detroit-tigers-draft-rhp-cameron-flukey-22nd-in-2026-mlb-draft",
+   "title": "Detroit Tigers Draft RHP Cameron Flukey 22nd in 2026 MLB Draft",
+   "excerpt": "Will he be the next Justin Verlander? The next Tarik Skubal? Will the Detroit Tigers develop another ace, only to watch him win a World Series somewhere else? The sky’s the limit for Detroit Tigers first-round pick, No. 22 overall in the 2026 MLB Draft, RHP Cameron Flukey out of Coastal Carolina. Those are massive…",
+   "author": "Woodward Sports",
+   "cats": [
+    "Detroit Tigers",
+    "Featured News",
+    "MLB",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/07/IMG_2251-scaled.jpg",
+   "words": 510
+  },
+  {
+   "id": 21061,
+   "date": "2026-07-23T18:51:42",
+   "link": "https://woodwardsports.com/are-we-cooked/",
+   "slug": "are-we-cooked",
+   "title": "Are We COOKED?!",
+   "excerpt": "Woe is me.I can’t breathe the air. I can’t eat salad and I can’t go to Taco Bell. Can life get any worse? What is going on around here? Is there a witch or evil spirit haunting us? The Canadian wildfires are hundreds of miles away so why does Michigan get the brunt of the…",
+   "author": "Terry Foster",
+   "cats": [
+    "Featured News",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/07/Grok-Image-2026-07-23-at-25009-PM.png",
+   "words": 343
+  },
+  {
+   "id": 21039,
+   "date": "2026-07-16T00:02:57",
+   "link": "https://woodwardsports.com/ebuka-okorie-detroits-pistons-summer-league-takeaways/",
+   "slug": "ebuka-okorie-detroits-pistons-summer-league-takeaways",
+   "title": "Ebuka Okorie, Detroits Pistons Summer LEague Takeaways",
+   "excerpt": "Las Vegas, NV – Physicality was the name of the game for the Detroit Pistons and Ebuka Okorie all week at summer league. And against the Phoenix Suns the challenge reached a peak with players like Koa Peat, Rasheer Fleming and Khaman Maluack putting pressure on the paint offensively. But their defense was flying around…",
+   "author": "Brandon Dent",
+   "cats": [
+    "Detroit Pistons",
+    "NBA",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/07/Untitled-July-15-2026-at-165429.PNG",
+   "words": 614
+  },
+  {
+   "id": 21024,
+   "date": "2026-07-13T21:52:43",
+   "link": "https://woodwardsports.com/chaz-lanier-ebuka-okorie-rise-while-detroit-pistons-fall/",
+   "slug": "chaz-lanier-ebuka-okorie-rise-while-detroit-pistons-fall",
+   "title": "Chaz Lanier, Ebuka Okorie Rise, While Detroit Pistons Fall.",
+   "excerpt": "Las Vegas, NV – The Detroit Pistons ending Chaz Lanier’s summer league might be the only way to stop him in Las Vegas. No defender has been able to stop Lanier. A night after scoring 25 points in a win, he poured in 18 more to start the first half versus the Knicks. He showcased…",
+   "author": "Brandon Dent",
+   "cats": [
+    "Detroit Pistons",
+    "Featured News",
+    "NBA"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/07/photo-output-25-scaled.png",
+   "words": 425
+  },
+  {
+   "id": 21016,
+   "date": "2026-07-12T22:32:05",
+   "link": "https://woodwardsports.com/ebuka-okorie-detroit-pistons-win-summer-league-game-2/",
+   "slug": "ebuka-okorie-detroit-pistons-win-summer-league-game-2",
+   "title": "Ebuka Okorie, Detroit Pistons WIN SUMMER LEAGUE GAME 2",
+   "excerpt": "Las Vegas, Nevada – The Detroit Pistons defeated the Cleveland Cavaliers 103-94 behind the hot hand of Chaz Lanier. Chaz Lanier stole the show for the Detroit Pistons with 17 points in the first quarter of game 2. Las Vegas is no stranger to hot temperatures outside, but Lanier brought fire power inside UNLV’s Thomas…",
+   "author": "Brandon Dent",
+   "cats": [
+    "Detroit Pistons",
+    "Featured News",
+    "NBA"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/07/photo-output-24-scaled.png",
+   "words": 440
+  },
+  {
+   "id": 20954,
+   "date": "2026-07-12T18:03:28",
+   "link": "https://woodwardsports.com/are-the-detroit-pistons-better-than-last-year/",
+   "slug": "are-the-detroit-pistons-better-than-last-year",
+   "title": "Are the detroit pistons Better than last year?!",
+   "excerpt": "After no BIG MOVES, are the Detroit Pistons better than last year? Trajan Langdon’s belief in Cade Cunningham, Jalen Duren and Ausar Thompson HAS to pay off.",
+   "author": "Brandon Dent",
+   "cats": [
+    "Detroit Lions",
+    "Detroit Pistons",
+    "Featured News",
+    "NBA",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/07/Cade-Cunningham-Jalen-Duren-Ausar-Thompson-of-the-Detroit-Pistons.png",
+   "words": 911
+  },
+  {
+   "id": 20979,
+   "date": "2026-07-12T14:54:05",
+   "link": "https://woodwardsports.com/justin-verlander-im-not-finished-neither-are-the-detroit-tigers/",
+   "slug": "justin-verlander-im-not-finished-neither-are-the-detroit-tigers",
+   "title": "Justin Verlander: “I’m Not Finished, Neither are the Detroit Tigers!”",
+   "excerpt": "Here is a dirty little secret regarding the Detroit News and Detroit Free Press. Sports columnists were on no-hitter alert any time Justin Verlander pitched for the Detroit Tigers. If you were at the beach you were on alert. You had to be prepared to jet out of your kid’s birthday party or a hot…",
+   "author": "Terry Foster",
+   "cats": [
+    "Detroit Tigers",
+    "Featured News",
+    "MLB",
+    "Trending News"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/07/Justin-Verlander-of-the-Detroit-Tigers.png",
+   "words": 533
+  },
+  {
+   "id": 20974,
+   "date": "2026-07-07T20:08:54",
+   "link": "https://woodwardsports.com/i-hated-the-world-cup-of-soccer-until-this/",
+   "slug": "i-hated-the-world-cup-of-soccer-until-this",
+   "title": "I Hated The World Cup Of Soccer, Until This!",
+   "excerpt": "In 1994 I watched World Cup matches in the United States only because I had to. I covered the World Cup at the Pontiac Silverdome and the Finals at the Rose Bowl for the Detroit News. I hated soccer and wanted nothing to do with the sport. Today, I am a different man. Although the…",
+   "author": "Terry Foster",
+   "cats": [
+    "Featured News",
+    "Soccer",
+    "Trending News",
+    "World Cup"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/07/IMG_4541.JPG",
+   "words": 326
+  },
+  {
+   "id": 20970,
+   "date": "2026-07-07T19:59:10",
+   "link": "https://woodwardsports.com/will-this-solve-detroits-championship-drought/",
+   "slug": "will-this-solve-detroits-championship-drought",
+   "title": "Will This Solve Detroit’s Championship Drought?!",
+   "excerpt": "By Darren McCarty We can all agree that we are in a sports championship drought in Detroit. Every one of our beloved professional teams are going through something that puts our sport fandom into some sort of tizzy. With that being said what I’m most excited about with Detroit sports is the expansion women’s hockey…",
+   "author": "Woodward Sports",
+   "cats": [
+    "Featured News",
+    "MLB",
+    "NBA",
+    "NFL",
+    "NHL"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/07/IMG_4540.JPG",
+   "words": 126
+  },
+  {
+   "id": 20966,
+   "date": "2026-07-07T11:49:21",
+   "link": "https://woodwardsports.com/the-pistons-not-lions-are-detroits-most-exciting-team/",
+   "slug": "the-pistons-not-lions-are-detroits-most-exciting-team",
+   "title": "“The Pistons, NOT LIONS, are detroit’s most exciting team!”",
+   "excerpt": "It’s the Detroit Pistons. That is the thing that makes me feel good about the Detroit sports scene. For the first time in my life, this team has the reasoning and the assets to go get a genuine superstar to pair with another superstar in Cade Cunningham. Names of past champions like Kawhi Leonard and Kevin…",
+   "author": "Eazy Ezerkis",
+   "cats": [
+    "Detroit Lions",
+    "Detroit Pistons",
+    "Featured News",
+    "NBA",
+    "NFL"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/07/IMG_4533.JPG",
+   "words": 219
+  },
+  {
+   "id": 20943,
+   "date": "2026-07-02T11:22:32",
+   "link": "https://woodwardsports.com/detroit-pistons-still-in-need-of-cades-2/",
+   "slug": "detroit-pistons-still-in-need-of-cades-2",
+   "title": "Detroit Pistons Still In Need of Cade’s #2",
+   "excerpt": "The Detroit Pistons facing their most impactful offseason in decades have made one thing clear: Cade Cunningham is their identity. And the priority is improving the roster around him talent wise, while maintaining cap flexibility. That is exactly how free agency has gone up to this point signing former LA Clipper John Collins and trading…",
+   "author": "Brandon Dent",
+   "cats": [
+    "Detroit Pistons",
+    "Featured News",
+    "NBA"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/07/IMG_4477.JPG",
+   "words": 571
+  },
+  {
+   "id": 20652,
+   "date": "2026-05-03T18:29:55",
+   "link": "https://woodwardsports.com/dillon-dingler-tigers-cleanup-hitter-breakout-2025/",
+   "slug": "dillon-dingler-tigers-cleanup-hitter-breakout-2025",
+   "title": "Dillon Dingler Built the Foundation Last Year — Now He’s the Tigers’ Cleanup Hitter",
+   "excerpt": "Dillon Dingler went from hitting sixth or seventh last year to batting cleanup for AJ Hinch, and he’s already launched five home runs. Tigers play-by-play voice Dan Dickerson says this is exactly how development is supposed to work.",
+   "author": "Woodward Sports",
+   "cats": [
+    "Detroit Tigers",
+    "MLB"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/05/maxresdefault-9.jpg",
+   "words": 585
+  },
+  {
+   "id": 20647,
+   "date": "2026-05-02T23:13:48",
+   "link": "https://woodwardsports.com/pistons-game-6-comeback-cade-cunningham-magic/",
+   "slug": "pistons-game-6-comeback-cade-cunningham-magic",
+   "title": "The Pistons Just Pulled Off One of the Craziest Comebacks You’ll Ever See",
+   "excerpt": "Down 24 points. Orlando didn’t score a basket for 45 straight minutes. Cade Cunningham scored more second-half points than the entire Magic roster combined. The Pistons are going to Game 7, and this might be the night Detroit realized they’ve got a legitimate superstar.",
+   "author": "Woodward Sports",
+   "cats": [
+    "Detroit Pistons",
+    "Featured News",
+    "NBA",
+    "Woodward Heavyweights"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/05/maxresdefault-7.jpg",
+   "words": 1006
+  },
+  {
+   "id": 20643,
+   "date": "2026-05-02T14:32:42",
+   "link": "https://woodwardsports.com/pistons-magic-game-7-watch-party-new-buffalo-lume/",
+   "slug": "pistons-magic-game-7-watch-party-new-buffalo-lume",
+   "title": "Game 7 Is Here: Pistons-Magic Watch Party Rolling Into New Buffalo",
+   "excerpt": "The Pistons are headed to Game 7 against Orlando, and the Woodward Heavyweights are making it an event — a full watch party at Lume’s grand opening in New Buffalo with a $5,000 Tulum trip giveaway.",
+   "author": "Woodward Sports",
+   "cats": [
+    "Detroit Pistons",
+    "Featured News",
+    "NBA"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/05/maxresdefault-5.jpg",
+   "words": 469
+  },
+  {
+   "id": 20649,
+   "date": "2026-05-02T13:00:48",
+   "link": "https://woodwardsports.com/terrion-arnold-shoulder-surgery-recovery-weight-gain-lions/",
+   "slug": "terrion-arnold-shoulder-surgery-recovery-weight-gain-lions",
+   "title": "Terrion Arnold Added Serious Mass This Offseason — Now Comes the Real Test",
+   "excerpt": "Terrion Arnold came out of shoulder surgery looking like a different player — and we mean that literally. The Lions DB is visibly bigger, and while the shoulder looks fully healed, the question is whether all that new size affects his speed and agility.",
+   "author": "Woodward Sports",
+   "cats": [
+    "Detroit Lions",
+    "NFL"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/05/maxresdefault-8.jpg",
+   "words": 717
+  },
+  {
+   "id": 20645,
+   "date": "2026-05-02T02:19:28",
+   "link": "https://woodwardsports.com/pistons-rebounding-problem-game-6-orlando-magic/",
+   "slug": "pistons-rebounding-problem-game-6-orlando-magic",
+   "title": "The Pistons Are Getting Killed on the Glass and It’s Going to Cost Them This Series",
+   "excerpt": "Detroit came out matching Orlando’s energy in Game 6, weathering the early storm and even taking a lead. Then the rebounding battle swung hard in the Magic’s favor, the offense went cold, and suddenly a confident Pistons team was staring down a 10-point deficit. If they can’t secure the defensive glass, they’re going home.",
+   "author": "Woodward Sports",
+   "cats": [
+    "Detroit Pistons",
+    "NBA"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/05/maxresdefault-6.jpg",
+   "words": 1400
+  },
+  {
+   "id": 20705,
+   "date": "2026-05-02T00:19:10",
+   "link": "https://woodwardsports.com/detroit-lions-super-bowl-contenders-2025-roster-breakdown/",
+   "slug": "detroit-lions-super-bowl-contenders-2025-roster-breakdown",
+   "title": "This Detroit Lions Team Can Win a Super Bowl — And the Roster Proves It",
+   "excerpt": "The Lions did everything right this offseason. They re-signed the offensive line, rebuilt the defense at every level, and still have one of the most disgusting offenses in football. The only question left is health.",
+   "author": "Woodward Sports",
+   "cats": [
+    "Detroit Lions",
+    "Featured News",
+    "NFL"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/05/maxresdefault-27.jpg",
+   "words": 820
+  },
+  {
+   "id": 20707,
+   "date": "2026-05-01T23:24:58",
+   "link": "https://woodwardsports.com/pistons-game-6-orlando-franz-wagner-out-cade-cunningham/",
+   "slug": "pistons-game-6-orlando-franz-wagner-out-cade-cunningham",
+   "title": "Franz Wagner Is Out — The Pistons Have Never Had a Better Chance to Force Game 7",
+   "excerpt": "The Orlando Magic are without their best all-around player for Game 6, and if there was ever a time for the Pistons to steal one on the road, it’s tonight. Cade Cunningham doesn’t have to see Franz Wagner guarding him, Paulo Banchero can’t do it alone two games in a row, and Detroit’s role players are due. This series should be going back to Little Caesars Arena.",
+   "author": "Woodward Sports",
+   "cats": [
+    "Detroit Pistons",
+    "NBA",
+    "Woodward Heavyweights"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/05/maxresdefault-28.jpg",
+   "words": 1024
+  },
+  {
+   "id": 20758,
+   "date": "2026-05-01T20:36:20",
+   "link": "https://woodwardsports.com/pistons-game-6-legend-comeback-force-game-7-magic/",
+   "slug": "pistons-game-6-legend-comeback-force-game-7-magic",
+   "title": "Rasheed Wallace, Grant Hill, or Joe Dumars: Which Pistons Legend Would Save Game 6?",
+   "excerpt": "With the Pistons needing a win to force Game 7 against Orlando, the Heavyweights asked the only question that matters: which Detroit legend would you bring back to close this thing out?",
+   "author": "Woodward Sports",
+   "cats": [
+    "Detroit Pistons",
+    "Featured News",
+    "NBA"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/05/maxresdefault-52.jpg",
+   "words": 917
+  },
+  {
+   "id": 20688,
+   "date": "2026-05-01T20:36:05",
+   "link": "https://woodwardsports.com/pistons-game-6-elimination-orlando-force-game-7/",
+   "slug": "pistons-game-6-elimination-orlando-force-game-7",
+   "title": "Pistons Face Elimination Tonight — Time to Punch Back in Orlando",
+   "excerpt": "The Detroit Pistons are staring down elimination in Game 6 against the Magic in Orlando. It’s a must-win, and everyone knows it. The question isn’t whether this team belongs here — they’ve already proven that. The question is whether they can steal one on the road and bring this thing back to Detroit for Game 7.",
+   "author": "Woodward Sports",
+   "cats": [
+    "Detroit Pistons",
+    "NBA",
+    "The Braylon Edwards Show"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/05/maxresdefault-19.jpg",
+   "words": 709
+  },
+  {
+   "id": 20762,
+   "date": "2026-05-01T18:17:16",
+   "link": "https://woodwardsports.com/tigers-bullpen-collapse-kenley-jansen-blown-saves/",
+   "slug": "tigers-bullpen-collapse-kenley-jansen-blown-saves",
+   "title": "The Tigers Bullpen Is in Full Meltdown Mode and There’s No Help Coming",
+   "excerpt": "Kenley Jansen just blew his third straight save and the Tigers bullpen is officially a five-alarm fire. The worst part? There’s nobody to call for backup.",
+   "author": "Woodward Sports",
+   "cats": [
+    "Detroit Tigers",
+    "MLB"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/05/maxresdefault-54.jpg",
+   "words": 686
+  },
+  {
+   "id": 20756,
+   "date": "2026-05-01T17:50:44",
+   "link": "https://woodwardsports.com/ausar-thompson-dennis-rodman-comp-pistons-second-most-valuable/",
+   "slug": "ausar-thompson-dennis-rodman-comp-pistons-second-most-valuable",
+   "title": "Ausar Thompson Is Detroit’s Modern Rodman — And It’s Not Even Close",
+   "excerpt": "Forget the scoring concerns. Ausar Thompson just went out and grabbed 15 rebounds in a must-win playoff game while Jalen Duren couldn’t find the ball. The Dennis Rodman comparisons are flying, and honestly? They’re not crazy. If you redrafted the 2023 class knowing what everyone became, Ausar goes top-two. Period.",
+   "author": "Woodward Sports",
+   "cats": [
+    "Big D Energy",
+    "Detroit Pistons",
+    "NBA"
+   ],
+   "img": "https://woodwardsports.com/wp-content/uploads/2026/05/maxresdefault-51.jpg",
+   "words": 937
+  }
+ ],
+ "videos": [
+  {
+   "id": "BtnDefhcbOQ",
+   "title": "Kelvin Sheppard GOES OFF On Detroit Lions Media! | Crunch Time | October 9th, 2026",
+   "published": "2026-10-09T14:53:50+00:00",
+   "views": 2740
+  },
+  {
+   "id": "bJGK6iqYREM",
+   "title": "Detroit Lions Have a SERIOUS PROBLEM...",
+   "published": "2026-10-09T16:24:48+00:00",
+   "views": 502
+  },
+  {
+   "id": "kbLwZs72tgs",
+   "title": "Dan Campbell gives a great story about Legendary HC Mike Ditka… RIP 🙏",
+   "published": "2026-10-09T16:11:24+00:00",
+   "views": 1910
+  },
+  {
+   "id": "uNr7esnbF4E",
+   "title": "Get Michigan legend Braylon Edwards in the Hall Of Fame!",
+   "published": "2026-10-09T14:55:06+00:00",
+   "views": 623
+  },
+  {
+   "id": "ATj4x_BwiqM",
+   "title": "What do the Detroit Lions need to do to fix this roster? #detroitlions #nfl #nflfootball",
+   "published": "2026-10-09T14:13:53+00:00",
+   "views": 2442
+  },
+  {
+   "id": "znBHJ4ieyzg",
+   "title": "Lions vs Cards Preview, Is This The Lions Get Right?!?! | Big D Energy | Thursday, October 8th, 2026",
+   "published": "2026-10-09T14:09:48+00:00",
+   "views": 8902
+  },
+  {
+   "id": "Rxa4rnR1kKk",
+   "title": "Oh no he didn’t",
+   "published": "2026-10-09T03:08:19+00:00",
+   "views": 17292
+  },
+  {
+   "id": "TGf7FaNJNAE",
+   "title": "are YOU concerned with Jameson Williams having the highest drop percentage in the league?",
+   "published": "2026-10-09T00:43:01+00:00",
+   "views": 9232
+  },
+  {
+   "id": "0TUOW20D9oo",
+   "title": "You WON'T BELIEVE What Lions Defensive Coordinator Said",
+   "published": "2026-10-09T00:11:55+00:00",
+   "views": 11709
+  },
+  {
+   "id": "WzYvMH3wSH0",
+   "title": "Detroit Lions Kelvin Sheppard SNAPS on Media!| Woodward Heavyweights | October 8th 2026",
+   "published": "2026-10-08T23:07:19+00:00",
+   "views": 18952
+  },
+  {
+   "id": "8VO1arwMX4w",
+   "title": "Brian Branch RETURNS for Detroit Lions MUST-WIN VS. Arizona | Braylon Edwards Show | 10/08/26",
+   "published": "2026-10-08T20:08:23+00:00",
+   "views": 7684
+  },
+  {
+   "id": "hW68ZwaHSIQ",
+   "title": "LEGENDARY Detroit Lions OT Lomas Brown on Defense!",
+   "published": "2026-10-08T20:00:41+00:00",
+   "views": 4321
+  },
+  {
+   "id": "MaJPqc3pLRw",
+   "title": "Kelvin Sheppard defends the Detroit Lions defense #detroitlions #nfl #nflfootball",
+   "published": "2026-10-08T19:54:34+00:00",
+   "views": 27693
+  },
+  {
+   "id": "yD7ewkVkiFQ",
+   "title": "Arizona Cardinals Host Said THIS On Detroit Lions Defense!",
+   "published": "2026-10-08T18:27:04+00:00",
+   "views": 4451
+  },
+  {
+   "id": "tcWmKewD7LQ",
+   "title": "Tyliek Williams BACK at Detroit Lions practice. #nfl #football",
+   "published": "2026-10-08T18:01:44+00:00",
+   "views": 7836
+  }
+ ]
+}
